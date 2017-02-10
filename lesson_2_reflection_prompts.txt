@@ -2,7 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 初始化会创建代码库的空目录
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-
+提供暂时的存储
 How can you use the staging area to make sure you have one commit per logical
 change?
 
